@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Shadow Stack`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
+    title: `Shadow Stack, LLC`,
+    description: `Shadow Stack, LLC is a web development focused limited liability company based in Upstate New York.`,
     author: `@gatsbyjs`,
   },
   plugins: [
