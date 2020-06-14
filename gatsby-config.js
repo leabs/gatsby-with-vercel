@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Shadow Stack, LLC`,
+    title: `Shadow Stack LLC`,
     description: `Shadow Stack, LLC is a web development focused limited liability company based in Upstate New York.`,
     author: `@gatsbyjs`,
   },
