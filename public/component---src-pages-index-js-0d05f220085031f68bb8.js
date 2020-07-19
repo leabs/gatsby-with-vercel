@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{RXBc:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),i=a.n(n),l=a("Bl7J"),c=a("vrFN");t.default=function(){return i.a.createElement(l.a,null,i.a.createElement(c.a,{title:"Home"}),i.a.createElement("p",{style:{textAlign:"center"}},"Shadow Stack, LLC is a web development focused limited liability company based in Upstate New York."),i.a.createElement("div",{style:{maxWidth:"300px",marginBottom:"1.45rem"}}))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-0d05f220085031f68bb8.js.map
