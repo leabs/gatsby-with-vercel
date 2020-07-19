@@ -34,7 +34,7 @@ const Layout = ({ children }) => {
         }}
       >
         <main>{children}</main>
-        <footer style={{ textAlign: `right` }}>
+        <footer style={{ textAlign: `center` }}>
           © {new Date().getFullYear()}
         </footer>
       </div>

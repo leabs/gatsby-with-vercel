@@ -1,5 +1,5 @@
 import React from "react"
-//import { Link } from "gatsby"
+import { Link } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -9,9 +9,9 @@ const IndexPage = () => (
     <SEO title="Home" />
     <p style={{ textAlign: `center` }}>Shadow Stack, LLC is a web development focused limited liability company based in Upstate New York.</p>
     
-    <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-
-    </div>
+    <p style={{ textAlign: `center` }}>
+      More info <a href="https://stevenleabo.com">found here</a>!
+    </p>
    
   </Layout>
 )
